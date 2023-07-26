@@ -1,5 +1,3 @@
 export default function Header() {
-    return(
-        <div>The Last NetBender</div>
-    )
+  return <div className="Header">The Last NetBender</div>;
 }
